@@ -11,7 +11,7 @@ The primary goal of this notebook is to offer coaches, athletes, and sports anal
 ### Key Features
 
 - **Data Conversion:** Converts swimming times from a standard string format to a numerical format for analysis.
-- **Prediction Models:** Utilizes linear and polynomial regression models to forecast future NQTs based on historical data.
+- **Prediction Models:** Utilizes a linear regression model to forecast future NQTs based on historical data.
 - **Visualization:** Graphically represents historical times and predicted qualifying times, allowing for easy visualization of trends over the years.
 - **Comparative Analysis:** Includes functionality to compare men's and women's event times side by side, highlighting differences in performance trends.
 
@@ -29,7 +29,7 @@ The primary goal of this notebook is to offer coaches, athletes, and sports anal
 
 ## Contributing
 
-This project is open for contributions! We encourage you to contribute improvements, whether it's refining the prediction algorithms, enhancing the visualizations, or extending the notebook's functionality. Feel free to fork this repository, commit your enhancements, and submit a pull request. Your contributions will help make this tool more valuable for the College Club Swimming community.
+This project is open for contributions! I encourage you to contribute improvements, whether it's refining the prediction algorithms, enhancing the visualizations, or extending the notebook's functionality. Feel free to fork this repository, commit your enhancements, and submit a pull request. Your contributions will help make this tool more valuable for the College Club Swimming community.
 
 ---
 
