@@ -1,6 +1,7 @@
-# Prediction Model for CCS National Qualifying Times (NQT)
+# Prediction Model for College Club Swimming (CCS) National Qualifying Times (NQT)
 
 ## Overview
+To simply view the graphs and predictions, go to [Prediction Model CCS NQT.ipynb](https://github.com/ZTW21/Prediction-Model-CCS-NQTs/blob/main/Prediction%20Model%20CCS%20NQT.ipynb)
 
 This Jupyter notebook, "Prediction Model CCS NQT.ipynb", is designed to analyze historical swimming data and predict future National Qualifying Times (NQT) for various swimming events. It provides a comprehensive framework for processing time data, applying machine learning models to understand trends, and predicting future performance benchmarks that athletes must meet to qualify for national championships.
 
